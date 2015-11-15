@@ -1,4 +1,11 @@
 .ipynb_checkpoints/
 raw_corpus.w2v
 raw_corpus.zip
+raw_corpus/
+raw_corpus.xml
+raw_corpus.txt
+raw_corpus.tag
 sense_corpus.zip
+sense_corpus/
+sense_corpus.xml
+sense_corpus.tag
