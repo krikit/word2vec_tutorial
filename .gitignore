@@ -9,3 +9,5 @@ sense_corpus.zip
 sense_corpus/
 sense_corpus.xml
 sense_corpus.tag
+text8
+text8.w2v
