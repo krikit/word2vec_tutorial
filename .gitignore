@@ -1,10 +1,14 @@
 .ipynb_checkpoints/
+comment_corpus*.d2v*
+comment_corpus*.tag*
+comment_corpus.txt
+ratings*
 raw_corpus.w2v
 raw_corpus.zip
 raw_corpus/
 raw_corpus.xml
-raw_corpus.txt
 raw_corpus.tag
+raw_corpus.txt
 sense_corpus.zip
 sense_corpus/
 sense_corpus.xml
